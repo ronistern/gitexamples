@@ -17,6 +17,7 @@ namespace GitExamples
         void f()
         {
             int i = 90;
+            string bb = "branch!";
         }
     }
 }
