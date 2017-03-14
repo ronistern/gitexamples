@@ -13,5 +13,10 @@ namespace GitExamples
 
             Console.WriteLine("Hello world!");
         }
+
+        void f()
+        {
+            int i = 90;
+        }
     }
 }
