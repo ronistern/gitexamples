@@ -18,5 +18,10 @@ namespace GitExamples
         {
             int i = 90;
         }
+
+        void g()
+        {
+            string ddd = "dd";
+        }
     }
 }
